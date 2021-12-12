@@ -1,6 +1,6 @@
 Hola a todos!  :)
 
-<img align="left" src="https://media.giphy.com/media/rbCcuP0WHXatFWzUVu/giphy.gif" width="120">
+<img align="left" src="https://media.giphy.com/media/rbCcuP0WHXatFWzUVu/giphy.gif" width="100">
 
 
 Mi nombre es Sol, aunque pueden conocerme también por [@SunFanton](http://www.github.com/SunFanton) 
@@ -19,7 +19,9 @@ Actualmente soy estudiante de Ingeniería en Informática y continúo profundiza
 También soy diseñadora visual y me gradué en arte con una Tecnicatura en Artes Visuales
 
 
-<img align="left" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250">
+
+
+<img align="left" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200">
 
 
 
