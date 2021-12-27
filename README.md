@@ -10,7 +10,7 @@ Mi nombre es Sol, aunque pueden conocerme también por [@SunFanton](http://www.g
 Bienvenidos a mi perfil de Github donde se encuentran mis proyectos, prácticas e ideas codificados principalmente en:
 
 - Java                          
-- HTML/CSS
+- HTML5/CSS
 - Javascript
 
 Actualmente soy estudiante de Ingeniería en Informática y continúo profundizando mis conocimientos de programación con diversos cursos y certificados
@@ -21,6 +21,7 @@ También soy diseñadora visual y me gradué en arte con una Tecnicatura en Arte
 
 
 <img align="left" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200">
+
 
 
 
