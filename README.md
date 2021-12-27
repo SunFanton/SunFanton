@@ -30,7 +30,7 @@ Pueden encontrarme en:
 - Github: [@SunFanton](http://www.github.com/SunFanton) 
 - Instagram: [@solfantonarte](http://www.instagram.com/solfantonarte)
 - Facebook: [@solfantonarte](http://www.facebook.com/solfantonarte)
-- Linkedin: Sol Fanton
+- Linkedin: [Sol Fanton](https://ar.linkedin.com/in/sol-fanton-469353225?trk=people-guest_people_search-card)
 
 Espero que disfruten de mis trabajos y nos mantegamos en contacto! :)
 
