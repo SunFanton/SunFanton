@@ -11,7 +11,7 @@ Bienvenidos a mi perfil de Github donde se encuentran mis proyectos, prácticas 
 
 - Java
 - Spring
-- HTML5/CSS
+- HTML5/CSS/Javascript
 
 Actualmente soy estudiante de Ingeniería en Informática y continúo profundizando mis conocimientos de programación con diversos cursos y certificados
 
