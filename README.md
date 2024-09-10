@@ -9,9 +9,11 @@ Mi nombre es Sol, aunque pueden conocerme también por [@SunFanton](http://www.g
 
 Bienvenidos a mi perfil de Github donde se encuentran mis proyectos, prácticas e ideas codificados principalmente en:
 
-- Java
-- Spring
+- Java/Spring/Springboot
+- Python
 - HTML5/CSS/Javascript
+- VueJS
+- SQL
 
 Actualmente soy estudiante de Ingeniería en Informática y continúo profundizando mis conocimientos de programación con diversos cursos y certificados
 
